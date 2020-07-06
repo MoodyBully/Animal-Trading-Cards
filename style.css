@@ -1,0 +1,20 @@
+span {
+    font-weight: bold; 
+}
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.card-container {
+    border: solid 2px lightgray;
+    width: 300px;
+    box-shadow: 5px 5px lightgray;
+    padding: 20px;
+}
+.info-container {
+    width: 258px;
+    border: solid 2px lightgray;
+    padding: 20px;
+    margin-top: 10px;
+}
